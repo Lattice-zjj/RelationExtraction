@@ -1,19 +1,3 @@
-# README
-
-### DataProcess
-data processing is in the ./ProcessData
-
-### how to train
-First of all, you need to cd to RelationExtraction and run the following command
-
-```
-python run.py --dataset=WebNLG --train=True
-```
-
-### how to test the accuracy of the training
-```
-python run.py --dataset=WebNLG
-```
-
-And you can see the results likes below
-![result](https://raw.githubusercontent.com/Lattice-zjj/RelationExtraction/main/result.png)
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a6bd32c324e2cb1b92da95c0cb01c22c87e1df4c384d344b651834b1fe683a
+size 435
