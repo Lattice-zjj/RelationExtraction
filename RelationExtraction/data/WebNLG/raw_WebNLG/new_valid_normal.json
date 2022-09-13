@@ -1,0 +1,182 @@
+{"sentText": "Alan Shepard was born in New Hampshire on 1923-11-18 . He was awarded the Distinguished Service Medal and the Department of Commerce Gold Medal .", "relationMentions": [{"em1Text": "Shepard", "em2Text": "Hampshire", "label": "birthPlace"}]}
+{"sentText": "Addis Ababa Stadium , named for its city location , is located in Amharic-speaking Ethiopia .", "relationMentions": [{"em1Text": "Ababa", "em2Text": "Stadium", "label": "isPartOf"}]}
+{"sentText": "Egg Harbor Township , NJ United States is the home of Atlantic City International Airport 23.0 metres above sea level .", "relationMentions": [{"em1Text": "Airport", "em2Text": "23.0", "label": "elevationAboveTheSeaLevel_(in_metres)"}]}
+{"sentText": "Afonso Pena International Airport is operated by Infraero , Brasilia . The airport is 911 meters above sea level and its runway length 2215 .", "relationMentions": [{"em1Text": "Airport", "em2Text": "Infraero", "label": "operatingOrganisation"}]}
+{"sentText": "1634 : The Bavarian Crisis by Virginia DeMarce which has 448 pages and is available in hardcover can be found by its ISBN number 978-1-4165-4253-7 .", "relationMentions": [{"em1Text": "Crisis", "em2Text": "DeMarce", "label": "author"}]}
+{"sentText": "A Long Long way was written in Ireland and published by Viking Press . Penguin Random House is the parent company of Viking Press . White people are an ethnic group in Ireland .", "relationMentions": [{"em1Text": "Ireland", "em2Text": "people", "label": "ethnicGroup"}, {"em1Text": "Press", "em2Text": "House", "label": "parentCompany"}]}
+{"sentText": "A Long Long Way , available in hardcover , has 292 pages . The OCLC number of the work is 57392246 and has an ISBN number of 0-670-03380-4 .", "relationMentions": [{"em1Text": "Way", "em2Text": "57392246", "label": "OCLC_number"}]}
+{"sentText": "The American Journal of Math ( Am . J . Math . ) is published in the U.S. by the Johns Hopkins University Press . Johns Hopkins University is the parent company of the Johns Hopkins University Press .", "relationMentions": [{"em1Text": "Press", "em2Text": "University", "label": "parentCompany"}]}
+{"sentText": "English is the language of the USA and is also spoken in Great Britain . Native Americans are among the ethnic groups of the USA and A Loyal Character Dancer was Published there .", "relationMentions": [{"em1Text": "language", "em2Text": "Britain", "label": "spokenIn"}]}
+{"sentText": "Italian born Michele Marcolini has managed AC Lumezzane . He is also part of the Atalanta BC club and owns Torino FC .", "relationMentions": [{"em1Text": "Lumezzane", "em2Text": "Marcolini", "label": "manager"}]}
+{"sentText": "Located in Athens , the Olympic Stadium , is the ground for AEK Athens FC . The manager of which , used to be Gus Poyet , who , is in the Real Zaragoza club .", "relationMentions": [{"em1Text": "Poyet", "em2Text": "Zaragoza", "label": "club"}]}
+{"sentText": "Baked Alaska comes from either Paris , New York or Hong Kong and is enjoyed in China . The main ingredients of a Baked Alaska are meringue , ice cream and sponge cake ( or Christmas pudding ) .", "relationMentions": [{"em1Text": "Alaska", "em2Text": "China", "label": "country"}]}
+{"sentText": "Bakewell pudding originates from the Derbyshire Dales and has ground almond , jam , butter and eggs as main ingredients . It can be served warm ( freshly baked ) or cold .", "relationMentions": [{"em1Text": "pudding", "em2Text": "Dales", "label": "region"}]}
+{"sentText": "Bandeja paisa is from the Paisa region and part of the Columbian cuisine . The main ingredients of Bandeja paisa are : red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon '' .", "relationMentions": [{"em1Text": "paisa", "em2Text": "cuisine", "label": "country"}]}
+{"sentText": "Bandeja paisa originates from the Paisa region and part of the Colombian cuisine.The main ingredients of he food are red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .", "relationMentions": [{"em1Text": "paisa", "em2Text": "plantain", "label": "ingredient"}]}
+{"sentText": "Bandeja paisa is found in the Antioquia Department in Columbia . The main ingredients of Bandeja paisa are red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .", "relationMentions": [{"em1Text": "paisa", "em2Text": "Department", "label": "region"}]}
+{"sentText": "Batchoy is originates from the Philippines and served as a soup.Its main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .", "relationMentions": [{"em1Text": "Batchoy", "em2Text": "Philippines", "label": "country"}]}
+{"sentText": "Batchoy originated from the region of La Paz , Iloilo City , Phillippines . The main ingredients are noodles , pork organs , vegetables , chicken , shrimp , and beef .", "relationMentions": [{"em1Text": "Batchoy", "em2Text": "City", "label": "region"}]}
+{"sentText": "A cookie is a dessert and so is binignit , a dish from the Philippines , where Igorot people are part of one of the ethnic groups .", "relationMentions": [{"em1Text": "Philippines", "em2Text": "people", "label": "ethnicGroup"}]}
+{"sentText": "Aarhus airport , which serves Aarhus in Denmark , is located 25 metres above sea level and is operated by the Aktieselkab organisation . The runway name at Aarhus Airport is `` 10R/28L '' and is 2776.0 long .", "relationMentions": [{"em1Text": "Airport", "em2Text": "2776.0", "label": "runwayLength"}]}
+{"sentText": "Afonso Pena International Airport , with the ICAO location identifier of SBCT , is located in Sao Jose dos Pinhais and lies 911 metres above sea level . The runway at the airport is named 11/29 and is 1800 metres long .", "relationMentions": [{"em1Text": "Airport", "em2Text": "Pinhais", "label": "location"}]}
+{"sentText": "The company Populous were the architects of the 3Arena at North Wall , Dublin . The arena , which has a height of 28 metres , was completed in December 2008 and hosts concerts and events .", "relationMentions": [{"em1Text": "3Arena", "em2Text": "Dublin", "label": "location"}]}
+{"sentText": "The comic book character Arion was created by Paul Kupperberg and Jan Duursema , a winner of the Eisner Award .", "relationMentions": [{"em1Text": "Duursema", "em2Text": "Award", "label": "award"}]}
+{"sentText": "The company Populous is the architect of 3Arena which is located at North Wall , Dublin . and completed in December 2008 .", "relationMentions": [{"em1Text": "3Arena", "em2Text": "Dublin", "label": "location"}]}
+{"sentText": "Architects James Pain and George Richard Pain designed Adare Manor , the building of which started in 1700 and was completed in 1862 .", "relationMentions": [{"em1Text": "Manor", "em2Text": "1862", "label": "completionDate"}]}
+{"sentText": "The address of Akita Musuem of Art is 142 Nakadori , it has 3 floors and a floor area of 3746.66 square metres .", "relationMentions": [{"em1Text": "Art", "em2Text": "3", "label": "floorCount"}]}
+{"sentText": "Asilomar Conference Grounds is located on Asilomar Blvd , Pacific Grove , California . It was constructed in 1913 and has the reference number 87000823 in the National Register of Historic Places .", "relationMentions": [{"em1Text": "Grounds", "em2Text": "1913", "label": "yearOfConstruction"}]}
+{"sentText": "The Acharya Institute of Technology is located at Soldevanahalli , Acharya Dr. Sarcapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , 560090 , India . It is affiliated with the Visvesvaraya Technological University .", "relationMentions": [{"em1Text": "Technology", "em2Text": "University", "label": "affiliation"}]}
+{"sentText": "Aarhus has a magistrate government . To its northeast is Mols . The School of Business and Social Sciences at the Aarhus University is located in Aarhus .", "relationMentions": [{"em1Text": "Aarhus", "em2Text": "Mols", "label": "has to its northeast"}]}
+{"sentText": "At an elevation of 610 metres above seal level , Adolfo Suarez Madrid-Barajas Aiport is located in Madrid , in Spain .", "relationMentions": [{"em1Text": "Madrid", "em2Text": "Spain", "label": "country"}]}
+{"sentText": "At 159 meters above sea level , Angola International airport is located in Icolo e Bengo , in Angola .", "relationMentions": [{"em1Text": "Bengo", "em2Text": "Angola", "label": "country"}]}
+{"sentText": "Poaceae , of the Commelinids order , belongs to the division of flowering plants and its the surface of the 1st runway at Alderney airport .", "relationMentions": [{"em1Text": "Poaceae", "em2Text": "Commelinids", "label": "order"}]}
+{"sentText": "Verona , Italy is the home to A.C. Chievo Verona which has 39371 members and the full name of `` Associazione Calcio ChievoVerona S.r.l . `` .", "relationMentions": [{"em1Text": "Verona", "em2Text": "39371", "label": "numberOfMembers"}]}
+{"sentText": "A.S. Livorno Calcio are managed by Christian Panucci who has played for Chelsea FC and is attached to the club Genoa CFC .", "relationMentions": [{"em1Text": "Calcio", "em2Text": "Panucci", "label": "manager"}]}
+{"sentText": "Verona , Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C .", "relationMentions": [{"em1Text": "Verona", "em2Text": "A", "label": "league"}]}
+{"sentText": "Coming from Spain , is the dish Ajoblanco ( alternatively known as Ajo blanco ) which has almond as an ingredient .", "relationMentions": [{"em1Text": "Ajoblanco", "em2Text": "Spain", "label": "country"}]}
+{"sentText": "The main ingredients of Asam pedas are fish cooked in sour and hot sauce . It is popular in Indonesia and can be found in the region of Sumatra and Malay peninsula .", "relationMentions": [{"em1Text": "pedas", "em2Text": "Indonesia", "label": "country"}]}
+{"sentText": "A dish from Sumatra , Malaysia and Indonesia called asam pedas is fish cooked in a sour and hot sauce .", "relationMentions": [{"em1Text": "pedas", "em2Text": "Sumatra", "label": "region"}]}
+{"sentText": "Sponge cake is an ingredient of Baked Alaska , a dessert . Sandesh is a nice confectionery dessert .", "relationMentions": [{"em1Text": "Alaska", "em2Text": "cake", "label": "ingredient"}]}
+{"sentText": "ACM Transactions on Information Systems ( abbreviated to ACM Trans . Inf . Syst ) is part of the academic Discipline of Computer Science and has the LCCN number 89646863 .", "relationMentions": [{"em1Text": "Systems", "em2Text": "89646863", "label": "LCCN_number"}]}
+{"sentText": "A Fortress of Grey Ice was written in the United States in English which is spoken in Great Britain .", "relationMentions": [{"em1Text": "Ice", "em2Text": "States", "label": "country"}]}
+{"sentText": "The book `` A Fortress of Grey Ice '' was written by J V Jones , can be found in print and has 672 pages .", "relationMentions": [{"em1Text": "Ice", "em2Text": "Jones", "label": "author"}]}
+{"sentText": "The OCLC number for A Glastonbury Romance is 76798317 . It has 1174 pages and is in print .", "relationMentions": [{"em1Text": "Romance", "em2Text": "76798317", "label": "OCLC_number"}]}
+{"sentText": "A Long Long Way has a OCLC number of 57392246 and a ISBN number of 0-670-03380-4 .", "relationMentions": [{"em1Text": "Way", "em2Text": "57392246", "label": "OCLC_number"}]}
+{"sentText": "The OCLC number of A Loyal Character Dancer is 49805501. its author is Qiu Xiaolong and it can be found in hardcover .", "relationMentions": [{"em1Text": "Dancer", "em2Text": "Xiaolong", "label": "author"}]}
+{"sentText": "The book Alcatraz Versus the Evil Librarians is written in the English language and comes from the U.S. One of the ethnic groups in the U.S. are White Americans .", "relationMentions": [{"em1Text": "Librarians", "em2Text": "language", "label": "language"}]}
+{"sentText": "The American Journal of Mathematics was first published in 1878 and is abbreviated to Am . J . Math . It has the ISSN number `` 0002-9327 '' .", "relationMentions": [{"em1Text": "Mathematics", "em2Text": "1878", "label": "firstPublicationYear"}]}
+{"sentText": "Tim Brooke-Taylor starred in Bananaman .", "relationMentions": [{"em1Text": "Bananaman", "em2Text": "Brooke-Taylor", "label": "starring"}]}
+{"sentText": "Bill Oddie was born in Rochdale .", "relationMentions": [{"em1Text": "Oddie", "em2Text": "Rochdale", "label": "birthPlace"}]}
+{"sentText": "Doug Moench won the Inkpot Award .", "relationMentions": [{"em1Text": "Moench", "em2Text": "Award", "label": "award"}]}
+{"sentText": "Gene Colan has been awarded the Eisner Award .", "relationMentions": [{"em1Text": "Colan", "em2Text": "Award", "label": "award"}]}
+{"sentText": "Len Wein won the Inkpot Award .", "relationMentions": [{"em1Text": "Wein", "em2Text": "Award", "label": "award"}]}
+{"sentText": "Alabama is in the United States .", "relationMentions": [{"em1Text": "Alabama", "em2Text": "States", "label": "country"}]}
+{"sentText": "The leader of Albuquerque ( New Mexico ) is called the Mayor of Albuquerque .", "relationMentions": [{"em1Text": "Mexico", "em2Text": "Albuquerque", "label": "leaderTitle"}]}
+{"sentText": "In Albuquerque ( New Mexico ) , the leader is called , the United States House of Representatives .", "relationMentions": [{"em1Text": "Mexico", "em2Text": "Representatives", "label": "leaderTitle"}]}
+{"sentText": "Tom Tait is a leader in Anaheim , California .", "relationMentions": [{"em1Text": "California", "em2Text": "Tait", "label": "leader"}]}
+{"sentText": "Mayor is the title of the leader of Auburn , in Washington .", "relationMentions": [{"em1Text": "Washington", "em2Text": "Mayor", "label": "leaderTitle"}]}
+{"sentText": "The California State Senate is located at the California State Capitol .", "relationMentions": [{"em1Text": "Senate", "em2Text": "Capitol", "label": "location"}]}
+{"sentText": "Jones County , Texas is in the United States .", "relationMentions": [{"em1Text": "Texas", "em2Text": "States", "label": "country"}]}
+{"sentText": "Arabic is a language found in Michigan .", "relationMentions": [{"em1Text": "Michigan", "em2Text": "Arabic", "label": "language"}]}
+{"sentText": "Houston is the largest city in Texas .", "relationMentions": [{"em1Text": "Texas", "em2Text": "Houston", "label": "largestCity"}]}
+{"sentText": "Union Township is in Madison County , which is in Indiana , in the United States .", "relationMentions": [{"em1Text": "Indiana", "em2Text": "States", "label": "country"}]}
+{"sentText": "African Americans are an ethnic group in the United States .", "relationMentions": [{"em1Text": "States", "em2Text": "Americans", "label": "ethnicGroup"}]}
+{"sentText": "White Americans are an ethnic group in the United States .", "relationMentions": [{"em1Text": "States", "em2Text": "Americans", "label": "ethnicGroup"}]}
+{"sentText": "Al Asad Airbase is found in Iraq .", "relationMentions": [{"em1Text": "Airbase", "em2Text": "Iraq", "label": "location"}]}
+{"sentText": "Alcobendas is part of Community of Madrid .", "relationMentions": [{"em1Text": "Alcobendas", "em2Text": "Madrid", "label": "isPartOf"}]}
+{"sentText": "The length of the first runway at Amsterdam Airport Schiphol is 3800 metres .", "relationMentions": [{"em1Text": "Schiphol", "em2Text": "3800", "label": "1st_runway_LengthMetre"}]}
+{"sentText": "Appleton International Airport is 1st 8002 runway length .", "relationMentions": [{"em1Text": "Airport", "em2Text": "8002", "label": "1st_runway_LengthFeet"}]}
+{"sentText": "The runway length of Atlantic City International Airport is 3048.0 .", "relationMentions": [{"em1Text": "Airport", "em2Text": "3048.0", "label": "runwayLength"}]}
+{"sentText": "Greenlandic is the language spoken in Denmark .", "relationMentions": [{"em1Text": "Denmark", "em2Text": "language", "label": "language"}]}
+{"sentText": "Greece 's leader name is Prokopis Pavlopoulos .", "relationMentions": [{"em1Text": "Greece", "em2Text": "Pavlopoulos", "label": "leaderName"}]}
+{"sentText": "South Jersey Transportation Authority 's leader name is Stephen Dilts .", "relationMentions": [{"em1Text": "Authority", "em2Text": "Dilts", "label": "leaderName"}]}
+{"sentText": "The headquarters of Turkmenistan Airlines are located in Turkmenistan .", "relationMentions": [{"em1Text": "Airlines", "em2Text": "Turkmenistan", "label": "headquarter"}]}
+{"sentText": "The hub airport for Turkmenistan Airlines is Turkmenbashi International Airport .", "relationMentions": [{"em1Text": "Airlines", "em2Text": "Airport", "label": "hubAirport"}]}
+{"sentText": "Uttar Pradesh is part of Bundelkhand .", "relationMentions": [{"em1Text": "Pradesh", "em2Text": "Bundelkhand", "label": "isPartOf"}]}
+{"sentText": "Wilson Township , Alpena County , Michigan is part of the United States .", "relationMentions": [{"em1Text": "Michigan", "em2Text": "States", "label": "isPartOf"}]}
+{"sentText": "\u00c3\ufffdcolo e Bengo is in Angola .", "relationMentions": [{"em1Text": "Bengo", "em2Text": "Angola", "label": "country"}]}
+{"sentText": "1634 : The Galileo Affair was followed by 1634 : The Ram Rebellion .", "relationMentions": [{"em1Text": "Affair", "em2Text": "Rebellion", "label": "followedBy"}]}
+{"sentText": "A T Charlie Johnson is a United States national .", "relationMentions": [{"em1Text": "Johnson", "em2Text": "States", "label": "nationality"}]}
+{"sentText": "The author of A Glastonbury Romance is John Cowper Powys .", "relationMentions": [{"em1Text": "Romance", "em2Text": "Powys", "label": "author"}]}
+{"sentText": "A Loyal Character Dancer was penned by Qiu Xiaolong .", "relationMentions": [{"em1Text": "Dancer", "em2Text": "Xiaolong", "label": "author"}]}
+{"sentText": "A Severed Wasp was written in the English language .", "relationMentions": [{"em1Text": "Wasp", "em2Text": "language", "label": "language"}]}
+{"sentText": "The Administrative Science Quarterly comes under the academic discipline of Management .", "relationMentions": [{"em1Text": "Quarterly", "em2Text": "Management", "label": "academicDiscipline"}]}
+{"sentText": "The book Aenir was written by Australians .", "relationMentions": [{"em1Text": "Aenir", "em2Text": "Australians", "label": "country"}]}
+{"sentText": "Alcatraz Versus the Scrivener 's Bones was authored by Brandon Sanderson .", "relationMentions": [{"em1Text": "Bones", "em2Text": "Sanderson", "label": "author"}]}
+{"sentText": "Weymouth Sands ' author was John Cowper Powys .", "relationMentions": [{"em1Text": "Sands", "em2Text": "Powys", "label": "author"}]}
+{"sentText": "Alan Bean was selected by Nasa in 1963 .", "relationMentions": [{"em1Text": "Bean", "em2Text": "1963", "label": "was selected by NASA"}]}
+{"sentText": "Alan Shepard was the Chief of the Astronaut Office .", "relationMentions": [{"em1Text": "Shepard", "em2Text": "Office", "label": "title"}]}
+{"sentText": "Frank Borman was an Apollo 8 Commander .", "relationMentions": [{"em1Text": "8", "em2Text": "Borman", "label": "commander"}]}
+{"sentText": "Chris Patten served as a representative of British Hong Kong .", "relationMentions": [{"em1Text": "Kong", "em2Text": "Patten", "label": "representative"}]}
+{"sentText": "Dallas is in Collin County , Texas .", "relationMentions": [{"em1Text": "Dallas", "em2Text": "Texas", "label": "part"}]}
+{"sentText": "The nationality of Elliot See is United States .", "relationMentions": [{"em1Text": "See", "em2Text": "States", "label": "nationality"}]}
+{"sentText": "The purple finch is a native bird to New Hampshire .", "relationMentions": [{"em1Text": "Hampshire", "em2Text": "finch", "label": "bird"}]}
+{"sentText": "St. Louis was situated in the Kingdom of France .", "relationMentions": [{"em1Text": "Louis", "em2Text": "France", "label": "isPartOf"}]}
+{"sentText": "The architect of 11 Diagonal Street is Helmut Jahn .", "relationMentions": [{"em1Text": "Street", "em2Text": "Jahn", "label": "architect"}]}
+{"sentText": "There are 34 floors at 20 Fenchurch Street .", "relationMentions": [{"em1Text": "Street", "em2Text": "34", "label": "floorCount"}]}
+{"sentText": "The 3Arena is located in Dublin .", "relationMentions": [{"em1Text": "3Arena", "em2Text": "Dublin", "label": "location"}]}
+{"sentText": "Philip Charles Hardwick was the architect of Adare Manor .", "relationMentions": [{"em1Text": "Manor", "em2Text": "Hardwick", "label": "architect"}]}
+{"sentText": "Adisham Hall was completed in 1931 .", "relationMentions": [{"em1Text": "Hall", "em2Text": "1931", "label": "completionDate"}]}
+{"sentText": "Akita Museum of Art is located in Akita Prefecture .", "relationMentions": [{"em1Text": "Art", "em2Text": "Prefecture", "label": "location"}]}
+{"sentText": "Amdavad ni Gufa was completed in 1995 .", "relationMentions": [{"em1Text": "Gufa", "em2Text": "1995", "label": "completionDate"}]}
+{"sentText": "Amdavad ni Gufa is located in India .", "relationMentions": [{"em1Text": "Gufa", "em2Text": "India", "label": "country"}]}
+{"sentText": "The location of Amdavad ni Gufa is Ahmedabad .", "relationMentions": [{"em1Text": "Gufa", "em2Text": "Ahmedabad", "label": "location"}]}
+{"sentText": "Asher and Mary Isabelle Richardson House is located in Asherton , Texas .", "relationMentions": [{"em1Text": "House", "em2Text": "Texas", "label": "location"}]}
+{"sentText": "The Liberal Democrats are the leaders of Birmingham .", "relationMentions": [{"em1Text": "Birmingham", "em2Text": "Democrats", "label": "leaderName"}]}
+{"sentText": "Copenhagen is the capital of Denmark .", "relationMentions": [{"em1Text": "Denmark", "em2Text": "Copenhagen", "label": "capital"}]}
+{"sentText": "New York City is part of New York .", "relationMentions": [{"em1Text": "City", "em2Text": "York", "label": "isPartOf"}]}
+{"sentText": "Pacific Grove , California is in the United States .", "relationMentions": [{"em1Text": "California", "em2Text": "States", "label": "country"}]}
+{"sentText": "The 1 Decembrie 1918 University is located in the country of Romania .", "relationMentions": [{"em1Text": "University", "em2Text": "Romania", "label": "country"}]}
+{"sentText": "Mols is to the northeast of Aarhus .", "relationMentions": [{"em1Text": "Aarhus", "em2Text": "Mols", "label": "has to its northeast"}]}
+{"sentText": "There are 600 students at the Accademia di Architettura di Mendrisio .", "relationMentions": [{"em1Text": "Mendrisio", "em2Text": "600", "label": "numberOfStudents"}]}
+{"sentText": "All India Council for Technical Education is located in Mumbai .", "relationMentions": [{"em1Text": "Education", "em2Text": "Mumbai", "label": "location"}]}
+{"sentText": "Olive oil is an ingredient in Ajoblanco .", "relationMentions": [{"em1Text": "Ajoblanco", "em2Text": "oil", "label": "ingredient"}]}
+{"sentText": "Ajoblanco is a food found in Andalusia .", "relationMentions": [{"em1Text": "Ajoblanco", "em2Text": "Andalusia", "label": "region"}]}
+{"sentText": "Tomato is an ingredient in Arrabbiata sauce .", "relationMentions": [{"em1Text": "sauce", "em2Text": "Tomato", "label": "ingredient"}]}
+{"sentText": "Bacon is an ingredient in a Bacon Explosion .", "relationMentions": [{"em1Text": "Explosion", "em2Text": "Bacon", "label": "ingredient"}]}
+{"sentText": "Baked Alaska is a dish in China .", "relationMentions": [{"em1Text": "Alaska", "em2Text": "China", "label": "country"}]}
+{"sentText": "Baked Alaska is from the country of France .", "relationMentions": [{"em1Text": "Alaska", "em2Text": "France", "label": "country"}]}
+{"sentText": "A variant of bakewell pudding is bakewell tart .", "relationMentions": [{"em1Text": "pudding", "em2Text": "tart", "label": "dishVariation"}]}
+{"sentText": "Celery is an ingredient of Bakso .", "relationMentions": [{"em1Text": "Bakso", "em2Text": "Celery", "label": "ingredient"}]}
+{"sentText": "Beef is an ingredient of Batchoy .", "relationMentions": [{"em1Text": "Batchoy", "em2Text": "Beef", "label": "ingredient"}]}
+{"sentText": "The county Binignit comes from is the Philippines .", "relationMentions": [{"em1Text": "Binignit", "em2Text": "Philippines", "label": "country"}]}
+{"sentText": "Sour cream is an ingredient of Bionico .", "relationMentions": [{"em1Text": "Bionico", "em2Text": "cream", "label": "ingredient"}]}
+{"sentText": "Claude Bartolone is a leader of France .", "relationMentions": [{"em1Text": "France", "em2Text": "Bartolone", "label": "leaderName"}]}
+{"sentText": "Joko Widodo is the leader of Indonesia .", "relationMentions": [{"em1Text": "Indonesia", "em2Text": "Widodo", "label": "leaderName"}]}
+{"sentText": "Matteo Renzi is a leader from Italy .", "relationMentions": [{"em1Text": "Italy", "em2Text": "Renzi", "label": "leaderName"}]}
+{"sentText": "Pietro Grasso is the leader of Italy .", "relationMentions": [{"em1Text": "Italy", "em2Text": "Grasso", "label": "leaderName"}]}
+{"sentText": "The capital of Malaysia is Putrajaya .", "relationMentions": [{"em1Text": "Malaysia", "em2Text": "Putrajaya", "label": "capital"}]}
+{"sentText": "Mondelez International was founded in Chicago .", "relationMentions": [{"em1Text": "International", "em2Text": "Chicago", "label": "foundationPlace"}]}
+{"sentText": "The Chinese Filipino is an ethnic group in the Philippines .", "relationMentions": [{"em1Text": "Philippines", "em2Text": "Filipino", "label": "ethnicGroup"}]}
+{"sentText": "Shiitake is an ingredient of Shumai .", "relationMentions": [{"em1Text": "Shumai", "em2Text": "Shiitake", "label": "ingredient"}]}
+{"sentText": "Standard Chinese is a language spoken in Singapore .", "relationMentions": [{"em1Text": "Singapore", "em2Text": "Chinese", "label": "language"}]}
+{"sentText": "One the ethnic groups on Sumatra is the Acehnese people .", "relationMentions": [{"em1Text": "Sumatra", "em2Text": "people", "label": "ethnicGroup"}]}
+{"sentText": "Barack Obama is a leader of the United States .", "relationMentions": [{"em1Text": "States", "em2Text": "Obama", "label": "leaderName"}]}
+{"sentText": "London is the capital of England .", "relationMentions": [{"em1Text": "England", "em2Text": "London", "label": "capital"}]}
+{"sentText": "The largest city in Turkey is Istanbul .", "relationMentions": [{"em1Text": "Turkey", "em2Text": "Istanbul", "label": "largestCity"}]}
+{"sentText": "1 FC K\u00c3\u00b6ln played in the 2014 season .", "relationMentions": [{"em1Text": "K\u00c3\u00b6ln", "em2Text": "2014", "label": "season"}]}
+{"sentText": "AC Chievo Verona play in the Serie A league .", "relationMentions": [{"em1Text": "Verona", "em2Text": "A", "label": "league"}]}
+{"sentText": "AC Lumezzane has 4150 members .", "relationMentions": [{"em1Text": "Lumezzane", "em2Text": "4150", "label": "numberOfMembers"}]}
+{"sentText": "AFC Fylde has 3180 members .", "relationMentions": [{"em1Text": "Fylde", "em2Text": "3180", "label": "numberOfMembers"}]}
+{"sentText": "A S Livorno Calcio 's home ground is the Stadio Armando Picchi .", "relationMentions": [{"em1Text": "Calcio", "em2Text": "Picchi", "label": "ground"}]}
+{"sentText": "The chairman of the A.S. Roma is James Pallotta .", "relationMentions": [{"em1Text": "Roma", "em2Text": "Pallotta", "label": "chairman"}]}
+{"sentText": "AFC Ajax played in the 2014 season .", "relationMentions": [{"em1Text": "Ajax", "em2Text": "2014", "label": "season"}]}
+{"sentText": "the AZAL Arena is located in Azerbaijan .", "relationMentions": [{"em1Text": "Arena", "em2Text": "Azerbaijan", "label": "location"}]}
+{"sentText": "AZAL PFK play their home matches at the AZAL Arena .", "relationMentions": [{"em1Text": "PFK", "em2Text": "Arena", "label": "ground"}]}
+{"sentText": "AZ Alkmaar 's ground is the AFAS Stadion .", "relationMentions": [{"em1Text": "Alkmaar", "em2Text": "Stadion", "label": "ground"}]}
+{"sentText": "Christian Panucci played for the Italy national football team .", "relationMentions": [{"em1Text": "Panucci", "em2Text": "team", "label": "club"}]}
+{"sentText": "Italy is inhabited by Italians .", "relationMentions": [{"em1Text": "Italy", "em2Text": "Italians", "label": "demonym"}]}
+{"sentText": "Jens H\u00c3\u00a4rtel is in the RB Leipzig club .", "relationMentions": [{"em1Text": "H\u00c3\u00a4rtel", "em2Text": "Leipzig", "label": "club"}]}
+{"sentText": "Max Huiberts is associated with the club AZ Alkmaar .", "relationMentions": [{"em1Text": "Huiberts", "em2Text": "Alkmaar", "label": "club"}]}
+{"sentText": "Michele Marcolini plays for A.C. Chievo Verona .", "relationMentions": [{"em1Text": "Marcolini", "em2Text": "Verona", "label": "club"}]}
+{"sentText": "Michele Marcolini was born in Italy .", "relationMentions": [{"em1Text": "Marcolini", "em2Text": "Italy", "label": "placeOfBirth"}]}
+{"sentText": "The Acharya Institute of Techology in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 , India was established in 2000 . Its president is B.M . Reddy . It is associated with the Visvesvaraya Technological University in Belgaum .", "relationMentions": [{"em1Text": "University", "em2Text": "Belgaum", "label": "city"}]}
+{"sentText": "Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which has a runway length of 2702.0 .", "relationMentions": [{"em1Text": "Airport", "em2Text": "2702.0", "label": "runwayLength"}]}
+{"sentText": "Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes , in Spain .", "relationMentions": [{"em1Text": "Reyes", "em2Text": "Spain", "label": "country"}]}
+{"sentText": "Alderney Airport serves the English speaking city of Alderney .", "relationMentions": [{"em1Text": "Airport", "em2Text": "Alderney", "label": "cityServed"}]}
+{"sentText": "Appleton International airport is located in Greenville , Wisconsin , in the United States .", "relationMentions": [{"em1Text": "Wisconsin", "em2Text": "States", "label": "country"}]}
+{"sentText": "Poaceae is the order of Commelinids , it is also the surface type of the second runway of Ardmore Airport , New Zealand .", "relationMentions": [{"em1Text": "Poaceae", "em2Text": "Commelinids", "label": "order"}]}
+{"sentText": "Elliot See graduated from the University of Texas at Austin , affiliated to the university of Texas system .", "relationMentions": [{"em1Text": "See", "em2Text": "Austin", "label": "almaMater"}]}
+{"sentText": "Born on 17 October , 1933 , William Anders joined NASA in 1963 .", "relationMentions": [{"em1Text": "Anders", "em2Text": "1963", "label": "was selected by NASA"}]}
+{"sentText": "The Acharya Institute of Technology was established in India in 2000 .", "relationMentions": [{"em1Text": "Technology", "em2Text": "2000", "label": "established"}]}
+{"sentText": "1 Decembrie 1918 University is located in Romania whose leader is Klaus Johannis .", "relationMentions": [{"em1Text": "University", "em2Text": "Romania", "label": "country"}]}
+{"sentText": "Peter St\u00c3\u00b6ger is at the FK Austria Wien club and manages 1 FC Koln .", "relationMentions": [{"em1Text": "St\u00c3\u00b6ger", "em2Text": "Wien", "label": "club"}]}
+{"sentText": "Associazione Calcio Chievo Verona is managed by Rolando Maran , who is in the Unione Triestina 2012 S.S.D . club .", "relationMentions": [{"em1Text": "Verona", "em2Text": "Maran", "label": "manager"}]}
+{"sentText": "Michele Marcolini has been manager of AC Lumezzane and played for Torino FC .", "relationMentions": [{"em1Text": "Lumezzane", "em2Text": "Marcolini", "label": "manager"}]}
+{"sentText": "AFC Fylde 's manager is Dave Challinor who once played for Bury F.C .", "relationMentions": [{"em1Text": "Fylde", "em2Text": "Challinor", "label": "manager"}]}
+{"sentText": "A.S. Livorno Calcio is managed by Christian Panucci who played football for Genoa C.F.C .", "relationMentions": [{"em1Text": "Calcio", "em2Text": "Panucci", "label": "manager"}]}
+{"sentText": "Agremiacao Sportiva Arapiraquense which has 17000 members and the nickname Asa Gigante .", "relationMentions": [{"em1Text": "Arapiraquense", "em2Text": "17000", "label": "numberOfMembers"}]}
+{"sentText": "Arrabbiata sauce originates from the region of Rome and includes the ingredient garlic .", "relationMentions": [{"em1Text": "sauce", "em2Text": "Rome", "label": "region"}]}
+{"sentText": "The bacon sandwich , to which ketchup is often added , comes from the United Kingdom .", "relationMentions": [{"em1Text": "sandwich", "em2Text": "Kingdom", "label": "country"}]}
+{"sentText": "Meringue is found in Baked Alaska which France , USA and China claim to have invented .", "relationMentions": [{"em1Text": "Alaska", "em2Text": "Meringue", "label": "ingredient"}]}
+{"sentText": "Bandeja paisa is a traditional dish from the Paisa region and is part of Colombian cuisine .", "relationMentions": [{"em1Text": "paisa", "em2Text": "cuisine", "label": "country"}]}
+{"sentText": "Avocado is one of the ingredients in the Colombian dish Bandeja paisa .", "relationMentions": [{"em1Text": "paisa", "em2Text": "Avocado", "label": "ingredient"}]}
+{"sentText": "Noodles , pork organs , vegetables , chicken , shrimp and beef are main ingredients of Batchoy which is found in La Paz , Iloilo City .", "relationMentions": [{"em1Text": "Batchoy", "em2Text": "City", "label": "region"}]}
+{"sentText": "Adare Manore is located in Adare which is a part of Munster .", "relationMentions": [{"em1Text": "Adare", "em2Text": "Munster", "label": "isPartOf"}]}
+{"sentText": "The Akita Museum of Art has 3 floors and 3746.66 square metres of floor area .", "relationMentions": [{"em1Text": "Art", "em2Text": "3", "label": "floorCount"}]}
+{"sentText": "The AIDS ( journal ) is published by Lippincott Williams & Wilkins whose parent company is Wolters Kluwer .", "relationMentions": [{"em1Text": "Wilkins", "em2Text": "Kluwer", "label": "parentCompany"}]}
+{"sentText": "A Loyal Character Dancer is published in the United States , the capital of which is Washington D.C .", "relationMentions": [{"em1Text": "Dancer", "em2Text": "States", "label": "country"}]}
+{"sentText": "Garth Nix is the author of `` Above the Veil , '' ISBN number 0-439-17685-9 .", "relationMentions": [{"em1Text": "Veil", "em2Text": "Nix", "label": "author"}]}
+{"sentText": "Addiction journal is published by Wiley-Blackwell , whose parent company is John Wiley & Sons .", "relationMentions": [{"em1Text": "Wiley-Blackwell", "em2Text": "Sons", "label": "parentCompany"}]}
+{"sentText": "Aenir is a paperback and was written by Garth Nix .", "relationMentions": [{"em1Text": "Aenir", "em2Text": "Nix", "label": "author"}]}
+{"sentText": "In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus , Denmark . There are 737 academic staff and 16000 students and it is affiliated with the European University Association in Brussels .", "relationMentions": [{"em1Text": "Association", "em2Text": "Brussels", "label": "headquarters"}]}
